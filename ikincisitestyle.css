@@ -21,6 +21,10 @@ p{
   font-style: italic;
 }
 
+li{
+   color: white;
+}
+
 #astronomi{
   font-family:Courier;
 }
