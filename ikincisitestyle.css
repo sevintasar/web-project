@@ -5,6 +5,7 @@ background-color: black;
 h1{
   text-align: center;
   color: white;
+  border-bottom: double;
 }
 
 h2{
